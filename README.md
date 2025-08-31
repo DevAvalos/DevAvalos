@@ -1,10 +1,5 @@
 ## Hi, I'm Diego Avalos   👋
 
-<!--
-**DevAvalos/DevAvalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 💻 Computer Information Systems student at **UPC**  
 🔹 Passionate about **programming, databases, and problem-solving**  
 🌱 Currently learning **C++, Python, C#, SQL Server, HTML & CSS**  
