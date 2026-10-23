@@ -56,7 +56,7 @@ const diego = {
 
 **Lenguajes y web**
 
-![HTML5](https://img.shields.io/badge/HTML5-0A0C0F?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0A0C0F?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0C0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Canvas API](https://img.shields.io/badge/Canvas_API-0A0C0F?style=for-the-badge&logo=html5&logoColor=52E8D8)
+![HTML5](https://img.shields.io/badge/HTML5-0A0C0F?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0A0C0F?style=for-the-badge&logo=css&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0C0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Canvas API](https://img.shields.io/badge/Canvas_API-0A0C0F?style=for-the-badge&logo=html5&logoColor=52E8D8)
 
 **Frontend y backend**
 
